@@ -1,0 +1,98 @@
+    1  HDFBDFBC
+    2  PS C:/Users/Igor/Desktop/GIT1> git config --global user.name "IGOR MAKARENKO"
+    3  -c&&rm~/.bash_history
+    4  cd
+    5  git clone https://github.com/IHOR-MAKAR/HW_10.git
+    6  hellp
+    7  cd GIT1
+    8  git clone https://githud.com/IHOR-MAKAR/HW_10.GIT
+    9  git clone https://github.com/IHOR-MAKAR/HW_10.git
+   10  git clone https://github.com/IHOR-MAKAR/HW_10.git
+   11  
+   12  git clone https://github.com/IHOR-MAKAR/HW_10.git
+   13  cd HW_10
+   14  touch text_ignore.txt
+   15  git status
+   16  git clone https://github.comIHOR-MAKAR/HW-10.git
+   17  git clone https://github.com/IHOR-MAKAR/HW_10.git
+   18  cd HW_10
+   19  touch text_ignore.txt
+   20  git status
+   21  git add text_ignore.txt
+   22  git status
+   23  git commit -m "abb text_ignore.txt to .gitignore"
+   24  get status
+   25  touch main_test.txt
+   26  git add main_test.txt
+   27  git commit -m "add main_test.txt file"
+   28  git status
+   29  git checkout-b develop
+   30  git checkout  -b develop
+   31  touch develop_test.txt
+   32  git add develop_test.txt
+   33  git commit  -m "add develop_test.txt file"
+   34  git status
+   35  git status
+   36  git add justa small change
+   37  fdd just a smaill change 
+   38  git add  just a smaill change
+   39  git commit -m "add a small change in develop_test.txt"
+   40  get status
+   41  mkdir my _repo
+   42  cd my_repo
+   43  cd /c/Users/Igor/my_repo
+   44  histori -c rm ~/.bash_histori
+   45  git config --global user.name "IGOR MAKARENKO"
+   46  git config --global user.email "makarenko101001@gmail.com"
+   47  git clone https://github.com/IGOR
+   48  git clone https://github.com/IGOR-MAKAR/HW_10.git
+   49  cd HW_10
+   50  git clone https://github.com/IHOR-MAKAR/HW_10
+   51  cd HW_10
+   52  touch text_ignore.txt
+   53  gst status
+   54  git status
+   55  nano .gitignore
+   56  git status
+   57  nano text_ignor
+   58  git add text_ignore.txt
+   59  git status
+   60  mkdir GIT3
+   61  cd GIT3
+   62  histori -c rm~/.bash_histori
+   63  git config --global user.name "IHOR MAKARENKO"
+   64  git config --global user.email "makarenko101001@gmail.com"
+   65  git clone https://github.com/IHOR-MAKAR/HW_10
+   66  cd HW_10
+   67  touch text_ignore.txt
+   68  nano .gitignore
+   69  nano.gitignore
+   70  nano .gitignore
+   71  git status
+   72  git add text_ignore
+   73  git add text_ignore.txt
+   74  git commit -m "add text_ignore.txt to .gitignore"
+   75  add .gitignore
+   76  git status
+   77  git commit -a -m "text_ignore.txt"
+   78  git commit -a -m  "text_ignore.txt to .gitignore"
+   79  get status
+   80  git status
+   81  nano .gitignore
+   82  touch main_test.txt
+   83  git add main_test.txt
+   84  git comit -m "add main_text.txt file"
+   85  git checkout -b develop
+   86  touch develop_text.txt
+   87  git add develop_text.txt
+   88  git commit -m "add develop_text.txt file"
+   89  nano develop_text.txt
+   90  git status
+   91  git add develop_text.txt
+   92  git commit -m "add a small change in develop_text.txt"
+   93  git chekout main
+   94  git checkout master
+   95  git checkout main
+   96  git merge develop
+   97  git log
+   98  history > command_list.csv
